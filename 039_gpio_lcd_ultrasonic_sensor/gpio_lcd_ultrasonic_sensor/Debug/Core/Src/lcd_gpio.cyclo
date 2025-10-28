@@ -1,0 +1,8 @@
+../Core/Src/lcd_gpio.c:4:13:delay_ms	2
+../Core/Src/lcd_gpio.c:8:13:GPIO_WritePin	2
+../Core/Src/lcd_gpio.c:15:13:LCD_Send4Bits	1
+../Core/Src/lcd_gpio.c:27:6:LCD_SendCommand	1
+../Core/Src/lcd_gpio.c:34:6:LCD_SendData	1
+../Core/Src/lcd_gpio.c:41:6:LCD_Init	2
+../Core/Src/lcd_gpio.c:71:6:LCD_Clear	1
+../Core/Src/lcd_gpio.c:76:6:LCD_Print	2

@@ -1,0 +1,8 @@
+../Core/Src/lcd_gpio.c:4:13:delay_ms	24	static,ignoring_inline_asm
+../Core/Src/lcd_gpio.c:8:13:GPIO_WritePin	16	static
+../Core/Src/lcd_gpio.c:15:13:LCD_Send4Bits	16	static
+../Core/Src/lcd_gpio.c:27:6:LCD_SendCommand	16	static
+../Core/Src/lcd_gpio.c:34:6:LCD_SendData	16	static
+../Core/Src/lcd_gpio.c:41:6:LCD_Init	16	static
+../Core/Src/lcd_gpio.c:71:6:LCD_Clear	8	static
+../Core/Src/lcd_gpio.c:76:6:LCD_Print	16	static

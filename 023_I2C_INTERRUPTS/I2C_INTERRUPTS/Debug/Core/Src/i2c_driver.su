@@ -1,0 +1,2 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Core/Src/i2c_driver.c:8:6:I2C1_Init	8	static

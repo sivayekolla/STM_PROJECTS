@@ -1,0 +1,4 @@
+../Core/Inc/stm32l476xx_spi.c:4:6:SPI_Init	2
+../Core/Inc/stm32l476xx_spi.c:23:6:SPI1_GPIO_Config	1
+../Core/Inc/stm32l476xx_spi.c:39:6:SPI_PeripheralControl	2
+../Core/Inc/stm32l476xx_spi.c:46:6:SPI_TransmitReceive	5
