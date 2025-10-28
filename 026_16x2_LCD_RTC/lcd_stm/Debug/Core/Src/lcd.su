@@ -1,0 +1,9 @@
+../Core/Src/lcd.c:11:13:delay_us	24	static,ignoring_inline_asm
+../Core/Src/lcd.c:16:13:pulse_enable	8	static
+../Core/Src/lcd.c:24:13:lcd_send_nibble	16	static
+../Core/Src/lcd.c:31:13:lcd_send_cmd	16	static
+../Core/Src/lcd.c:39:13:lcd_send_data	16	static
+../Core/Src/lcd.c:47:6:LCD_Init	8	static
+../Core/Src/lcd.c:69:6:LCD_Clear	8	static
+../Core/Src/lcd.c:75:6:LCD_SetCursor	24	static
+../Core/Src/lcd.c:81:6:LCD_Print	16	static
