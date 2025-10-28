@@ -1,0 +1,4 @@
+../Core/Src/uart.c:3:6:UART2_Init	1
+../Core/Src/uart.c:16:6:UART2_SendChar	2
+../Core/Src/uart.c:22:6:UART2_SendString	2
+../Core/Src/uart.c:27:6:UART2_SendHex	1

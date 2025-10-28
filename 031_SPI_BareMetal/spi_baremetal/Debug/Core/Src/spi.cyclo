@@ -1,0 +1,2 @@
+../Core/Src/spi.c:3:6:SPI1_Master_Init	1
+../Core/Src/spi.c:19:9:SPI1_TransmitReceive	3
