@@ -1,0 +1,8 @@
+Distance = 20 cm
+Distance = 04 cm
+Distance = 06 cm
+Distance = 40cm
+Distance = 35cm
+Distance = 54 cm
+Distance = 87cm
+Distance = 3 cm
