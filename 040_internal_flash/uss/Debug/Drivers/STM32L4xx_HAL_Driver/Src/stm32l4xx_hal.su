@@ -1,0 +1,13 @@
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:13:6:delay_us	24	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:20:6:UART2_Init	4	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:32:6:uart2_putc	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:37:6:UART2_SendString	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:44:6:SPI1_Init	4	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:62:9:SPI1_Transfer	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:72:9:W25Q_ReadID	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:83:6:W25Q_WriteEnable	8	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:89:6:W25Q_PageProgram	32	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:102:6:W25Q_ReadData	40	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:116:6:Ultrasonic_Init	4	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:123:10:Ultrasonic_Read	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c:151:5:main	104	static
