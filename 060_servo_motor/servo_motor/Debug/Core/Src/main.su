@@ -1,0 +1,4 @@
+../Core/Src/main.c:15:6:delay_ms	24	static,ignoring_inline_asm
+../Core/Src/main.c:20:6:servo_init	4	static
+../Core/Src/main.c:45:10:angle_to_pulse	16	static
+../Core/Src/main.c:50:5:main	16	static
