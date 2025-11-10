@@ -1,0 +1,2 @@
+../Core/Src/w25qxx.c:11:6:W25QXX_Init	1
+../Core/Src/w25qxx.c:26:6:W25QXX_Read	1
