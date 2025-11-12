@@ -1,0 +1,15 @@
+../Core/Src/main.c:41:5:main	1
+../Core/Src/main.c:67:6:led_init	1
+../Core/Src/main.c:74:6:rgb_init	1
+../Core/Src/main.c:81:6:trig_init	1
+../Core/Src/main.c:88:6:echo_timer_init	1
+../Core/Src/main.c:97:6:uart2_init	1
+../Core/Src/main.c:107:6:uart2_write	2
+../Core/Src/main.c:113:6:uart2_write_str	2
+../Core/Src/main.c:119:6:delay_us	2
+../Core/Src/main.c:130:10:measure_echo	3
+../Core/Src/main.c:139:6:Task_TriggerSensor	1
+../Core/Src/main.c:150:6:Task_CalcDistance	1
+../Core/Src/main.c:163:6:Task_UART_Send	2
+../Core/Src/main.c:178:6:Task_RGB_Update	4
+../Core/Src/main.c:202:6:Task_LED	1
